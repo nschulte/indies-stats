@@ -1,7 +1,8 @@
 {
   "manifest_version": 2,
   "name": "indies-stats",
-  "version": "0.2",
+  "description": "Improves the stats page on ESEA",
+  "version": "0.3",
   "icons": {
     "32": "icons/icon_32.png",
     "128": "icons/icon_128.png"
